@@ -23,8 +23,8 @@ pd.set_option("display.max_colwidth", 200)
 # Part 2 : Define paths
 
 # Define directories
-pdf_dir = r'C:\Users\eve.mcaleer\OneDrive - Forest Research\Documents\Projects\#DISSERTATION#\Data\FR_Data'
-excel_path = r'C:\Users\eve.mcaleer\OneDrive - Forest Research\Documents\Projects\#DISSERTATION#\PRR_NFI.xlsx'
+pdf_dir = r'C:\Users\eve.mcaleer\OneDrive______\Documents\Projects\#DISSERTATION#\Data\PDF_Data'
+excel_path = r'C:\Users\eve.mcaleer\OneDrive______\Documents\Projects\#DISSERTATION#\_____.xlsx'
 
 # Defining the path to the saved models directory where the ZIP files are to be extracted
 saved_models_dir = r'C:\Users\eve.mcaleer\OneDrive - Forest Research\Documents\Projects\#DISSERTATION#\Code\text_summary' 

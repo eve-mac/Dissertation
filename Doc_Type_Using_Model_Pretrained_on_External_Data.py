@@ -24,8 +24,8 @@ from PIL import Image, UnidentifiedImageError
 # Part 2 : Set Directories
 
 # Define directories
-pdf_dir = r'C:\Users\eve.mcaleer\OneDrive - Forest Research\Documents\Projects\#DISSERTATION#\Data\FR_Data'
-excel_path = r'C:\Users\eve.mcaleer\OneDrive - Forest Research\Documents\Projects\#DISSERTATION#\PRR_NFI.xlsx'
+pdf_dir = r'C:\Users\eve.mcaleer\OneDrive______\Documents\Projects\#DISSERTATION#\Data\PDF_Data'
+excel_path = r'C:\Users\eve.mcaleer\OneDrive______\Documents\Projects\#DISSERTATION#\_____.xlsx'
 
 model_path = 'CNN_Doc_Type_5.keras'
 
